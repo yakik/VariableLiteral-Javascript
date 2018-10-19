@@ -1,6 +1,6 @@
 {
   "name": "variable-literal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "returns literal (strings) of javascript variables",
   "main": "./src/VariableLiteral.js",
   "scripts": {
