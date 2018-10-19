@@ -1,0 +1,19 @@
+{
+  "name": "variable-literal",
+  "version": "1.0.0",
+  "description": "returns literal (strings) of javascript variables",
+  "main": "./src/VariableLiteral.js",
+  "scripts": {
+    "test": "mocha ./test/*Tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yakik/VariableLiteral-Javascript"
+  },
+  "author": "Yaki Koren",
+  "license": "ISC",
+  "DevDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
